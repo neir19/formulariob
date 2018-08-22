@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ciudad">
+        <item>ciudad de nacimiento</item>
+        <item>cartagena</item>
+        <item>medellin</item>
+        <item>bogota</item>
+        <item>cali</item>
+        <item>manizales</item>
+
+    </string-array>
+</resources>

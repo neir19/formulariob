@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">formulariob</string>
+    <string name="añadir">añadir</string>
+    <string name="nombre">nombre</string>
+    <string name="correo">correo</string>
+    <string name="contraseña">contraseña</string>
+    <string name="recontraseña">repita contraseña</string>
+    <string name="sexo">sexo</string>
+    <string name="masculino">masculino</string>
+    <string name="femenino">femenino</string>
+    <string name="fecha">fecha(d-m-a)</string>
+    <string name="dormir">dormir</string>
+    <string name="leer">leer</string>
+    <string name="deportee">hacer deporte</string>
+    <string name="internet">estar en internet</string>
+    <string name="guardar">guardar</string>
+    <string name="acceder">acceder</string>
+    <string name="buscar">buscar</string>
+    <string name="nombree">nombre</string>
+    <string name="contacto">contacto</string>
+    <string name="nombreee">nombre</string>
+    <string name="contactos">contacto</string>
+    <string name="eliminar">eliminar</string>
+</resources>
